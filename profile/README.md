@@ -6,7 +6,7 @@ You came here for the source code, but everything begins with the book.
 
 My source code implementations could never have been done without the in-depth explanations of the astronomical algorithms contained in "Practical Astronomy with your Calculator or Spreadsheet".
 
-![](img/practical_astronomy_book_cover.jpg)
+![](profile/img/practical_astronomy_book_cover.jpg)
 
 This book, now in its 4th edition (2017), and written by Peter Duffett-Smith and Jonathan Zwart. I _highly_ recommend that you purchase a copy for yourself.
 
