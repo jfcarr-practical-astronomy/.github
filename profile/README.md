@@ -30,5 +30,6 @@ Language | Description | Status
 [Python](https://github.com/jfcarr-practical-astronomy/practical-astronomy-python) | Requires Python 3. Depends on the following Python libraries: math, unittest. | Feature Complete
 [C#](https://github.com/jfcarr-practical-astronomy/practical-astronomy-dotnet) | Built with .NET 5. There's also a NuGet published [here](https://www.nuget.org/packages/PracticalAstronomyDotNet/). | Feature Complete
 [Rust](https://github.com/jfcarr-practical-astronomy/practical-astronomy-rust) | Uses Rust 2018 features. | Feature Complete
-[C++](https://github.com/jfcarr-practical-astronomy/practical-astronomy-cpp) | Built with Clang, following the C++17 standard. | In Progress
-[Java](https://github.com/jfcarr-practical-astronomy/practical-astronomy-java) | Built with OpenJDK 11. | In Progress
+[C](https://github.com/jfcarr-practical-astronomy/practical-astronomy-c) | Built with GCC. | In Progress
+[C++](https://github.com/jfcarr-practical-astronomy/practical-astronomy-cpp) | Built with Clang, following the C++17 standard. | On Hold
+[Java](https://github.com/jfcarr-practical-astronomy/practical-astronomy-java) | Built with OpenJDK 11. | On Hold
